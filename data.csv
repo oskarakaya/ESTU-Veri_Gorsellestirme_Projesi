@@ -1,0 +1,52 @@
+﻿Yaş grubunuz;Biyolojik cinsiyetiniz;Bölümünüz;Not Ortalamanız (En son bitirdiğiniz dönemin birikimli not ortalaması);Stres Seviyeniz (1 = en düşük, 5 = en yüksek );Anksiyete Skorunuz (1 = en düşük, 5 = en yüksek );Haftada kaç gün boyunca düzenli olarak uyuyorsunuz?;Günlük ortalama uyku süreniz nedir?;Uyumadan önce geçen sürede elektronik cihazları kullanıyor musunuz?;Uyumadan önceki 1 saat içinde genellikle bir şeyler yeme ya da içme alışkanlığınız var mı?;Uyandıktan sonra kendinizi dinlenmiş hissediyor musunuz?;Uykusuz hissettiğiniz günlerde baş ağrısı, odaklanma sorunları gibi şikayetleriniz oluyor mu?;Genel olarak, uyku kalitenizi aşağıdaki seviyelerden hangisi en iyi tanımlar?
+21-25;Erkek;İstatistik;1.57;0;5;4 gün veya daha az;6 saat veya daha az;Evet;Evet, var.;Nadiren;Hayır, olmuyor.;Orta
+21-25;Erkek;İstatistik;2.38;2;0;7 gün (her gün);6-9 saat;Evet;Evet, var.;Nadiren;Hayır, olmuyor.;Orta
+18-21;Kadın;İstatistik;2.21;3;1;5-6 gün;6-9 saat;Evet;Evet, var.;Genellikle;Evet, oluyor.;Orta
+21-25;Kadın;İstatistik;1.94;3;2;4 gün veya daha az;6 saat veya daha az;Evet;Evet, var.;Nadiren;Evet, oluyor.;Kötü
+21-25;Kadın;İstatistik;1.30;3;4;4 gün veya daha az;6-9 saat;Evet;Evet, var.;Nadiren;Evet, oluyor.;Orta
+21-25;Erkek;İstatistik;2.0;5;1;4 gün veya daha az;6 saat veya daha az;Evet;Evet, var.;Nadiren;Evet, oluyor.;Orta
+21-25;Kadın;İstatistik;1.35;3;4;4 gün veya daha az;6-9 saat;Evet;Evet, var.;Nadiren;Evet, oluyor.;Orta
+21-25;Erkek;Matematik;3.10;2;1;4 gün veya daha az;6 saat veya daha az;Nadiren;Hayır, yok.;Genellikle;Hayır, olmuyor.;Orta
+21-25;Erkek;İstatistik;3.40;2;1;4 gün veya daha az;6-9 saat;Evet;Hayır, yok.;Genellikle;Evet, oluyor.;İyi
+18-21;Erkek;İstatistik;3.84;2;1;7 gün (her gün);6-9 saat;Evet;Hayır, yok.;Her zaman;Evet, oluyor.;İyi
+21-25;Erkek;İstatistik;3.05;4;3;4 gün veya daha az;6 saat veya daha az;Evet;Evet, var.;Hiçbir zaman;Evet, oluyor.;Kötü
+21-25;Erkek;İstatistik;2.7;5;5;4 gün veya daha az;6-9 saat;Evet;Evet, var.;Nadiren;Evet, oluyor.;Kötü
+18-21;Erkek;İstatistik;2.85;2;2;5-6 gün;6-9 saat;Evet;Evet, var.;Genellikle;Evet, oluyor.;İyi
+18-21;Kadın;İstatistik;1.70;2;1;4 gün veya daha az;6 saat veya daha az;Evet;Evet, var.;Nadiren;Hayır, olmuyor.;Kötü
+21-25;Kadın;Kimya;2.12;4;3;4 gün veya daha az;6 saat veya daha az;Evet;Hayır, yok.;Nadiren;Hayır, olmuyor.;Kötü
+21-25;Kadın;İstatistik;1.23;4;3;4 gün veya daha az;6 saat veya daha az;Evet;Evet, var.;Hiçbir zaman;Hayır, olmuyor.;Kötü
+21-25;Erkek;İstatistik;2.78;2;0;5-6 gün;6-9 saat;Evet;Evet, var.;Genellikle;Evet, oluyor.;İyi
+21-25;Erkek;Fizik;2.69;2;1;7 gün (her gün);6-9 saat;Evet;Evet, var.;Her zaman;Evet, oluyor.;İyi
+21-25;Kadın;Biyoloji;3.12;1;0;5-6 gün;6-9 saat;Evet;Evet, var.;Genellikle;Evet, oluyor.;İyi
+18-21;Erkek;Biyoloji;1.13;5;5;4 gün veya daha az;9 saat veya daha fazla;Evet;Evet, var.;Nadiren;Evet, oluyor.;Orta
+18-21;Erkek;Matematik;2.23;3;2;4 gün veya daha az;6-9 saat;Evet;Evet, var.;Nadiren;Evet, oluyor.;Orta
+21-25;Erkek;İstatistik;3.32;2;3;5-6 gün;6-9 saat;Evet;Evet, var.;Genellikle;Evet, oluyor.;İyi
+18-21;Kadın;Kimya;2.14;4;2;4 gün veya daha az;6 saat veya daha az;Evet;Evet, var.;Nadiren;Evet, oluyor.;Kötü
+18-21;Erkek;İstatistik;2.68;2;0;4 gün veya daha az;6 saat veya daha az;Evet;Hayır, yok.;Hiçbir zaman;Evet, oluyor.;Orta
+21-25;Erkek;Biyoloji;2.26;3;4;5-6 gün;6 saat veya daha az;Hayır;Evet, var.;Genellikle;Evet, oluyor.;İyi
+25+;Kadın;Fizik;3.11;2;0;5-6 gün;6-9 saat;Evet;Evet, var.;Genellikle;Evet, oluyor.;İyi
+18-21;Erkek;Kimya;2.81;2;0;4 gün veya daha az;6-9 saat;Evet;Evet, var.;Genellikle;Evet, oluyor.;İyi
+18-21;Erkek;İstatistik;2.03;4;5;4 gün veya daha az;6-9 saat;Evet;Evet, var.;Hiçbir zaman;Hayır, olmuyor.;Kötü
+18-21;Kadın;İstatistik;1.18;2;3;4 gün veya daha az;6 saat veya daha az;Evet;Evet, var.;Hiçbir zaman;Evet, oluyor.;Kötü
+25+;Kadın;İstatistik;1.26;3;3;4 gün veya daha az;6 saat veya daha az;Evet;Evet, var.;Hiçbir zaman;Evet, oluyor.;Kötü
+21-25;Erkek;Fizik;2.78;2;2;5-6 gün;6 saat veya daha az;Evet;Evet, var.;Genellikle;Evet, oluyor.;Orta
+18-21;Kadın;Kimya;2.67;4;2;5-6 gün;6 saat veya daha az;Evet;Evet, var.;Genellikle;Evet, oluyor.;Orta
+18-21;Erkek;Matematik;2.98;3;2;5-6 gün;6 saat veya daha az;Evet;Hayır, yok.;Genellikle;Hayır, olmuyor.;İyi
+21-25;Kadın;İstatistik;1.57;4;2;4 gün veya daha az;6 saat veya daha az;Evet;Evet, var.;Nadiren;Hayır, olmuyor.;Kötü
+21-25;Erkek;Fizik;3.07;2;4;5-6 gün;6 saat veya daha az;Evet;Evet, var.;Genellikle;Evet, oluyor.;İyi
+21-25;Erkek;İstatistik;2.97;0;0;5-6 gün;6-9 saat;Evet;Hayır, yok.;Genellikle;Evet, oluyor.;Orta
+21-25;Erkek;Fizik;2.52;2;0;7 gün (her gün);6 saat veya daha az;Nadiren;Hayır, yok.;Genellikle;Hayır, olmuyor.;Orta
+18-21;Erkek;Kimya;2.04;1;2;4 gün veya daha az;9 saat veya daha fazla;Evet;Evet, var.;Nadiren;Evet, oluyor.;Kötü
+25+;Erkek;İstatistik;1.84;4;4;4 gün veya daha az;6 saat veya daha az;Evet;Evet, var.;Nadiren;Hayır, olmuyor.;Kötü
+18-21;Kadın;Biyoloji;2.36;1;1;4 gün veya daha az;6-9 saat;Evet;Hayır, yok.;Genellikle;Evet, oluyor.;Orta
+18-21;Kadın;Biyoloji;1.64;3;4;4 gün veya daha az;6 saat veya daha az;Evet;Evet, var.;Nadiren;Evet, oluyor.;Kötü
+25+;Kadın;İstatistik;2.36;3;2;5-6 gün;9 saat veya daha fazla;Evet;Hayır, yok.;Genellikle;Evet, oluyor.;İyi
+18-21;Kadın;Fizik;2.33;2;0;4 gün veya daha az;6 saat veya daha az;Evet;Hayır, yok.;Genellikle;Evet, oluyor.;İyi
+21-25;Kadın;İstatistik;2.67;3;3;5-6 gün;6 saat veya daha az;Evet;Evet, var.;Genellikle;Evet, oluyor.;İyi
+21-25;Erkek;Kimya;2.13;3;0;4 gün veya daha az;6-9 saat;Evet;Evet, var.;Nadiren;Hayır, olmuyor.;Orta
+21-25;Erkek;Fizik;2.51;2;1;4 gün veya daha az;6-9 saat;Evet;Hayır, yok.;Genellikle;Hayır, olmuyor.;Orta
+18-21;Kadın;İstatistik;1.67;1;3;5-6 gün;6-9 saat;Evet;Evet, var.;Nadiren;Hayır, olmuyor.;Kötü
+21-25;Erkek;Matematik;1.89;4;2;7 gün (her gün);6-9 saat;Evet;Evet, var.;Nadiren;Evet, oluyor.;Kötü
+21-25;Kadın;Fizik;2.83;2;1;5-6 gün;6 saat veya daha az;Evet;Hayır, yok.;Genellikle;Evet, oluyor.;İyi
+18-21;Kadın;Biyoloji;2.57;2;4;5-6 gün;9 saat veya daha fazla;Evet;Evet, var.;Genellikle;Hayır, olmuyor.;İyi
+21-25;Erkek;Fizik;1.97;1;0;7 gün (her gün);9 saat veya daha fazla;Hayır;Hayır, yok.;Nadiren;Evet, oluyor.;Orta
